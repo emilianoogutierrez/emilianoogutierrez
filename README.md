@@ -211,41 +211,4 @@ I am especially interested in projects with a concrete problem to solve, an exis
     <td><strong>Location</strong></td>
     <td>Mexico · Remote</td>
   </tr>
-</table>      <br>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python">
-      <br>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React">
-      <br>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js">
-      <br>
-      <sub>Next.js</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js">
-      <br>
-      <sub>Node.js</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI">
-      <br>
-      <sub>FastAPI</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL">
-      <br>
-      <sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42
+</table>
