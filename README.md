@@ -146,7 +146,7 @@ I build web applications, backend systems and automation tools with a focus on c
 
 ## Selected work
 
-I am building a small set of public projects around problems I want to understand deeply. The repositories will contain working implementations, tests, setup instructions and notes about the decisions behind them.
+I am building a focused set of public projects around problems I want to understand deeply. The repositories contain working implementations, tests, setup instructions and notes about the decisions behind them.
 
 <table>
   <tr>
@@ -156,20 +156,14 @@ I am building a small set of public projects around problems I want to understan
   </tr>
 
   <tr>
-    <td><strong>FlowPilot</strong></td>
-    <td>Automation workflows, APIs, webhooks and applied AI</td>
-    <td align="center">In development</td>
+    <td><strong><a href="https://github.com/emilianoogutierrez/flowpilot">FlowPilot</a></strong></td>
+    <td>Durable workflow execution, APIs, automation and applied AI</td>
+    <td align="center">Public · v0.1.0</td>
   </tr>
 
   <tr>
     <td><strong>PulseOps</strong></td>
     <td>Full stack SaaS architecture and product engineering</td>
-    <td align="center">Planned</td>
-  </tr>
-
-  <tr>
-    <td><strong>Relay</strong></td>
-    <td>Reliable API integrations and event processing</td>
     <td align="center">Planned</td>
   </tr>
 
